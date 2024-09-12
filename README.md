@@ -10,7 +10,7 @@ This Dart program simulates an online shopping cart system with the following fe
 ## How to Run
 
 1. Ensure you have Dart installed.
-2. Run `dart run shopping_cart.dart` to execute the program.
+2. Run `dart run shoppingCart.dart` to execute the program.
 
 ## Example
 
